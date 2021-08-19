@@ -1,2 +1,2 @@
-# react-redux-Todos
+# redux-counter
 Created with CodeSandbox

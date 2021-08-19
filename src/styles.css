@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo-form {
+  text-align: center;
+}
+#todo-input {
+  width: 300px;
+  /* background: border-box; */
+  color: black;
+  border-top: none;
+  padding: 10px;
+}
+body {
+  background: blueviolet;
+}
+.deleteAll {
+  text-align: center;
+  padding: 5px;
+  margin-top: 10px;
+  box-shadow: border-box;
+}
