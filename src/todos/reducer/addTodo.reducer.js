@@ -40,7 +40,8 @@ export const addTodo = (state = initialState, action) => {
     case "DELETE_ALL":
       return {
         ...state,
-        todos: []
+        todos: [],
+        text: ""
       };
 
     default:
