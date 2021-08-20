@@ -41,7 +41,8 @@ export const addTodo = (state = initialState, action) => {
       return {
         ...state,
         todos: [],
-        text: ""
+        text: "",
+        selected: undefined
       };
 
     default:
